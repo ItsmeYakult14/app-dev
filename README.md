@@ -1,4 +1,4 @@
 # Favorite Movie
-**italic text**
+*italicized text*
 ** Arcane **
 [Arcane](https://www.netflix.com)
